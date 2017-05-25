@@ -1,0 +1,15 @@
+1 alpha esquerdo corpo perna L1,  	-> coluna 01
+2 beta esquerdo perna perna L1, 	-> coluna 02
+3 alpha esquerdo corpo perna L2 	-> coluna 03
+4 beta esquerdo perna perna L2 		-> coluna 04
+5 alpha esquerdo corpo perna L3 	-> coluna 05
+6 beta esquerdo perna perna L3 		-> coluna 06
+7 alpha direito corpo perna R1 		-> coluna 12
+8 beta direito perna perna R1 		-> coluna 11
+9 alpha direito corpo perna R2 		-> coluna 10
+10 beta direito perna perna R2 		-> coluna 09
+11 alpha direito corpo perna R3 	-> coluna 08
+12 beta direito perna perna R3 		-> coluna 07
+
+motores da esquerda: sobe positivo, frente postivo 
+motores da direita: sobe negativo, frente negativo

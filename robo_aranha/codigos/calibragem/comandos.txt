@@ -1,0 +1,30 @@
+# Manual dos comandos do XAPE
+# by Dr. Beco <rcb@beco.cc>
+
+
+A;
+B; tripoide frente 1 esq 2 dir
+C;
+D; onda direita itera vezes
+E; onda esquerda itera vezes
+F; onda frente itera vezes
+G; tripoide frente itera vezes
+H; home
+I; tripoide levanta 2 esq 1 dir
+J; tripoide baixa 2 esq 1 dir
+K; tripoide levanta 1 esq 2 dir
+L; tripoide tras 2 esq 1 dir
+M; tripoide completo 1 vez
+N; tripoide baixa 1 esq 2 dir
+O; tripoide tras 1 esq 2 dir
+P; tripoide frente 2 esq 1 dir
+Q;
+R;
+S;
+T; onda tras itera vezes
+U;
+V;
+W;
+X;
+Y;
+Z;
